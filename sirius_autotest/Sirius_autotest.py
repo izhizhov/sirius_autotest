@@ -14,11 +14,12 @@ test_data = [
     "тест",
     "Test",
     "!@#$%&?,.",
-    "12340",
-    "['1', 2]",
-    "true",
-    "FALSE",
-    '{"object": "JSON"}',
+    12340,
+    "     ",
+    ['1', 2],
+    True,
+    {"object": "JSON"},
+    None,
     "NULL"
 ]
 
